@@ -1,19 +1,31 @@
 <div align="center">
 
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:FF6584,100:43E97B&height=200&section=header&text=Maryam%20Tahir&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn" />
+<!-- Night Sky Header -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0a1a,30:1a0a3a,60:2d1b69,100:0d0d2b&height=280&section=header&text=Maryam%20Tahir&fontSize=72&fontColor=c9b8ff&fontAlignY=42&desc=✦%20Software%20Engineer%20%7C%20Full%20Stack%20Developer%20✦&descAlignY=60&descSize=17&animation=fadeIn&stroke=7c3aed&strokeWidth=1" />
 
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Building+Real-World+Solutions+%F0%9F%9A%80;Full+Stack+Web+%26+Mobile+Developer+%F0%9F%92%BB;Designer+%7C+Developer+%7C+Tester+%F0%9F%8E%AF;Open+to+Exciting+Opportunities+%E2%9C%A8" alt="Typing SVG" /></a>
+<!-- Glowing Stars Divider -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
+<!-- Typing SVG — night purple palette -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=A78BFA&center=true&vCenter=true&random=false&width=650&height=45&lines=%E2%9C%A6+Building+Real-World+Solutions+%E2%9C%A6;%F0%9F%8C%99+Full+Stack+Web+%26+Mobile+Developer;%F0%9F%92%AB+Designer+%7C+Developer+%7C+Tester;%E2%AD%90+CGPA+3.79+%7C+COMSATS+University;%F0%9F%9A%80+Open+to+Exciting+Opportunities" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<!-- Night-themed Social Badges -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/maryamtahir00)
+[![GitHub](https://img.shields.io/badge/GitHub-0f0a1e?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/maryamtahirexe)
+[![Email](https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:maryamtahir061@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0a1e?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://github.com/maryamtahirexe)
+[![WhatsApp](https://img.shields.io/badge/+92--308--7999292-1e1b4b?style=for-the-badge&logo=whatsapp&logoColor=a78bfa)](tel:+923087999292)
 
 <br/>
 
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryamtahir00)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maryamtahirexe)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamtahir061@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF6584?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/maryamtahirexe)
-[![Phone](https://img.shields.io/badge/+92--308--7999292-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+923087999292)
+<!-- Decorative stars row -->
+![](https://img.shields.io/badge/✦-0d0d2b?style=flat-square&logoColor=white)
+![](https://img.shields.io/badge/✦✦✦-1a0a3a?style=flat-square)
+![](https://img.shields.io/badge/✦-0d0d2b?style=flat-square)
 
 <br/>
 
@@ -142,34 +154,6 @@ Superpower: Turning ideas into production-ready software 💡
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=maryamtahirexe&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=6C63FF&icon_color=FF6584&text_color=ffffff"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryamtahirexe&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6C63FF&text_color=ffffff"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=maryamtahirexe&theme=tokyonight&hide_border=true&background=0D1117&stroke=6C63FF&ring=FF6584&fire=FF6584&currStreakLabel=ffffff&sideLabels=ffffff&dates=ffffff)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🌈 Contribution Graph
-
-<div align="center">
-
-[![Maryam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maryamtahirexe&bg_color=0d1117&color=6C63FF&line=FF6584&point=43E97B&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 ### 💌 Let's Connect & Build Something Amazing!
@@ -179,11 +163,11 @@ Superpower: Turning ideas into production-ready software 💡
 
 <br/>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=maryamtahirexe&label=Profile%20Views&color=6C63FF&style=for-the-badge)
+![Visitor Count](https://komarev.com/ghpvc/?username=maryamtahirexe&label=Profile%20Views&color=7c3aed&style=for-the-badge)
 
 <br/>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:43E97B,50:FF6584,100:6C63FF&height=120&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2b,40:2d1b69,70:1a0a3a,100:0a0a1a&height=130&section=footer&animation=fadeIn"/>
 
 </div>
