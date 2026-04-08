@@ -17,7 +17,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1e1b4b?style=for-the-badge&logo=linkedin&logoColor=a78bfa)](https://www.linkedin.com/in/maryamtahir00)
 [![GitHub](https://img.shields.io/badge/GitHub-0f0a1e?style=for-the-badge&logo=github&logoColor=c4b5fd)](https://github.com/maryamtahirexe)
 [![Email](https://img.shields.io/badge/Email-1e1b4b?style=for-the-badge&logo=gmail&logoColor=a78bfa)](mailto:maryamtahir061@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0f0a1e?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://github.com/maryamtahirexe)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0f0a1e?style=for-the-badge&logo=vercel&logoColor=c4b5fd)](https://portfolio-rho-steel-50.vercel.app/)
 [![WhatsApp](https://img.shields.io/badge/+92--308--7999292-1e1b4b?style=for-the-badge&logo=whatsapp&logoColor=a78bfa)](tel:+923087999292)
 
 <br/>
