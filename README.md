@@ -41,10 +41,10 @@
 Name      : Maryam Tahir
 Location  : Islamabad, Pakistan 🇵🇰
 Education : B.S. Software Engineering @ COMSATS (2022–2026)
-CGPA      : 3.79 / 4.0 ⭐
+CGPA      : 3.79 / 4.0 
 Status    : Final Year Student | Open to Opportunities
 Interests : Full Stack Dev | UI/UX | AI/ML | Mobile Apps
-Superpower: Turning ideas into production-ready software 💡
+Superpower: Turning ideas into production-ready software 
 ```
 
 <br clear="right"/>
@@ -119,9 +119,9 @@ Superpower: Turning ideas into production-ready software 💡
 
 </div>
 
-> 🔹 At **Texinity**, built a role-based web app with admin & user portals — featuring store management, owner management, payments, request handling & inventory for cash-and-carry businesses.
+> 🔹 At **Texinity**, built a role-based web app with admin & user portals; featuring store management, owner management, payments, request handling & inventory for cash-and-carry businesses.
 >
-> 🔹 At **Apricot Wanderers**, wore many hats — from frontend dev to video/graphic creation — delivering multi-phase projects for international clients.
+> 🔹 At **Apricot Wanderers**, wore many hats; from frontend dev to video/graphic creation , delivering multi-phase projects for international clients.
 
 ---
 
